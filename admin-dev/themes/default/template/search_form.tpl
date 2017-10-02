@@ -49,7 +49,7 @@
 					</li>
 					<li class="search-customers-addresses search-option">
 						<a href="#" data-value="6" data-placeholder="{l s='123.45.67.89'}" data-icon="icon-desktop">
-							<i class="icon-desktop"></i> {l s='Customers'} {l s='by ip address'}</a>
+							<i class="icon-desktop"></i> {l s='Customers'} {l s='by IP address'}</a>
 					</li>
 					<li class="search-orders search-option">
 						<a href="#" data-value="3" data-placeholder="{l s='Order ID'}" data-icon="icon-credit-card">
